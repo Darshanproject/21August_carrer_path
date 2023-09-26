@@ -1,0 +1,4 @@
+You have check that number is even or odd ;
+you have to check that number is positive or negative ;
+
+for this both task use coditional operator 
