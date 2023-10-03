@@ -1,0 +1,2 @@
+find even odd using in if else condtion
+find positive and negivate using if else 

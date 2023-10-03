@@ -1,0 +1,5 @@
+Find the even and odd numbers take ten inputs 
+from user and perfonrm this task
+find even odd
+find total of even and odd
+find even and odd

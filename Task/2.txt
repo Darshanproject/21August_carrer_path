@@ -1,0 +1,3 @@
+take value in class a
+pass it to B make addtion over there 
+pass the value of b to c and display in at this is sum of two numbers 
